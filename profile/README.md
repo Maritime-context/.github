@@ -1,6 +1,20 @@
 ## Welcome to Maritime Context Community 👋
 
+DRAFT ver.
+
 We standardize events to make your life easier ✨
+
+Add roadmap here
+
+### Get started!
+
+- Event catalogue
+- Request issues here!
+- Join our discussions
+
+### Community guidelines
+
+### About us
 
 TO BE UPDATED
 
