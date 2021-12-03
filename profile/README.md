@@ -11,8 +11,10 @@ Add roadmap here
 - Request issues here!
 
 ### Community
-- If you want to ask questions or talk to others in the community, join our discussions [here](https://github.com/Maritime-context/mcStandard/discussions)
-- Maritime Context is dedicated to providing a welcoming, diverse, and harrassment-free experience for everyone. We expect everyone in the Maritime Context community to abide by our Code of Conduct. Please read it. (add Code of Conduct here)
+
+If you want to ask questions or talk to others in the community, join our discussions [here](https://github.com/Maritime-context/mcStandard/discussions)
+
+Maritime Context is dedicated to providing a welcoming, diverse, and harrassment-free experience for everyone. We expect everyone in the Maritime Context community to abide by our Code of Conduct. Please read it. (add Code of Conduct here)
 
 
 ### About us
