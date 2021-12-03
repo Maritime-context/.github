@@ -2,7 +2,7 @@
 
 DRAFT ver.
 
-We standardize events to make your life easier ✨
+Without context - data is meaningless 🤷🏻‍♀️
 
 Add roadmap here
 
