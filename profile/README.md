@@ -1,4 +1,4 @@
-## Welcome to Maritime Context Community 👋
+## Welcome to Maritime Context 👋
 
 DRAFT ver.
 
