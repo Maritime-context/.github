@@ -1,6 +1,6 @@
-## Welcome to Maritime Context 👋
+## Hi there! 👋
 
-DRAFT ver.
+![5wxmds](https://user-images.githubusercontent.com/93884264/145002929-cdf3ec6b-ac8b-4c16-be0d-570a3e8545bc.jpg)
 
 Without context - data is meaningless 🤷🏻‍♀️
 
