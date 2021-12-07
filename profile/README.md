@@ -4,11 +4,12 @@
 
 Without context - data is meaningless 🤷🏻‍♀️
 
-Add roadmap here
+You can read about our product roadmap here soon!
 
+---
 ### Get started!
 - Event catalogue
-- Request issues here!
+- Request issues/events here! 
 
 ### Community
 
