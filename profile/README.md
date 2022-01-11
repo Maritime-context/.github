@@ -25,6 +25,7 @@ Maritime Context is dedicated to providing a welcoming, diverse, and harrassment
 
 Maritime Context is an open source platform made by maritime workers for the maritime industry. Using standard web technologies such as JSON, Maritime Context provides a framework that makes it easier to share information that is compatible to any kind of technology. The open source platform is available to everyone where anyone can contribute. Maritime Context strives for having open discussions, making common understandable data events, sharing is caring and improving together as a community to make the maritime industry better.
 
+### 📄 License
 All Maritime Context source code is published under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0) and everything else, like protocols and interface descriptions, under the Creative Commons [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
 That means that it is open source, but friendly to companies that want to use it in closed source applications or hardware. Of course source code contributions are always welcome and encouraged.
