@@ -20,7 +20,9 @@ Maritime Context is dedicated to providing a welcoming, diverse, and harrassment
 
 ### About us
 
-TO BE UPDATED
+All Maritime Context source code is published under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0) and everything else, like protocols and interface descriptions, under the Creative Commons [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license.
+
+That means that it is open source, but friendly to companies that want to use it in closed source applications or hardware. Of course source code contributions are always welcome and encouraged.
 
 <!--
 
