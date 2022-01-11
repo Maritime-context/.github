@@ -2,23 +2,28 @@
 
 ![5wxmds](https://user-images.githubusercontent.com/93884264/145002929-cdf3ec6b-ac8b-4c16-be0d-570a3e8545bc.jpg)
 
-Without context - data is meaningless 🤷🏻‍♀️
+Without context - data is meaningless 🤷🏻‍♀️ together we map events to a contextual, reusable and open standard for everyone 🙌
 
 You can read about our product roadmap here soon!
 
 ---
-### Get started!
+### 🏁 Get started!
+
+Visit our repository [mcStandard](https://github.com/Maritime-context/mcStandard) to see our events, discussion and wiki!
+
 - Event catalogue
 - Request issues/events here! 
 
-### Community
+### 🌱 Community
 
 If you want to ask questions or talk to others in the community, join our discussions [here](https://github.com/Maritime-context/mcStandard/discussions)
 
 Maritime Context is dedicated to providing a welcoming, diverse, and harrassment-free experience for everyone. We expect everyone in the Maritime Context community to abide by our Code of Conduct. Please read it [here](https://github.com/Maritime-context/mcStandard/wiki/Code-of-Conduct)
 
 
-### About us
+### 🧜 About us
+
+Maritime Context is an open source platform made by maritime workers for the maritime industry. Using standard web technologies such as JSON, Maritime Context provides a framework that makes it easier to share information that is compatible to any kind of technology. The open source platform is available to everyone where anyone can contribute. Maritime Context strives for having open discussions, making common understandable data events, sharing is caring and improving together as a community to make the maritime industry better.
 
 All Maritime Context source code is published under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0) and everything else, like protocols and interface descriptions, under the Creative Commons [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
