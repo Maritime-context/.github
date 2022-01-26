@@ -11,8 +11,14 @@ You can read about our product roadmap here soon!
 
 Visit our repository [mcStandard](https://github.com/Maritime-context/mcStandard) to see our events, discussion and wiki!
 
-- Event catalogue
-- Request issues/events here! 
+#### Not quite sure where to start?
+
+- If you are wondering about what we are doing, we suggest that you start looking into our [wiki](https://github.com/Maritime-context/mcStandard/wiki), visit our [website](https://www.maritimecontext.org/) and surf through [discussions](https://github.com/Maritime-context/mcStandard/discussions) to get the gist of what our mission is! 🏄
+- If you want to contribute to Maritime Context, read our [contribution guide](https://github.com/Maritime-context/mcStandard/blob/main/CONTRIBUTING.md) and take it from there 👍
+
+#### Are you looking for events?
+- If you are looking for events or want to request an event, please read this guide [here](https://github.com/Maritime-context/mcStandard/blob/main/EventGuide.md)
+- For existing events, you can check out our product catalogue (link to be added soon)
 
 ### 🌱 Community
 
