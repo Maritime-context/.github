@@ -18,7 +18,7 @@ Visit our repository [mcStandard](https://github.com/Maritime-context/mcStandard
 
 #### Are you looking for events?
 - If you are looking for events or want to request an event, please read this guide [here](https://github.com/Maritime-context/mcStandard/blob/main/EventGuide.md)
-- For existing events, you can check out our product catalogue (link to be added soon)
+- For existing events, you can check out our [event templates here](https://github.com/Maritime-context/mcStandard/tree/main/MC_V1-TEMPLATES/EVENT_TEMPLATES)
 
 ### 🌱 Community
 
